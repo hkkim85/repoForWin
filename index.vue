@@ -48,7 +48,7 @@ export default {
   },
   create() {
     // alert('create');
-    alert('인생은 고달퍼');
+    alert('인생은 고달퍼'); 
   },
   beforeMount() {
     // alert('beforeMount');
