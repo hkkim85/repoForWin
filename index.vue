@@ -43,7 +43,7 @@ export default {
   },
 
   beforeCreate() {
-    // alert('beforeCreate');
+    alert('test!!');
   },
   create() {
     // alert('create');
