@@ -43,10 +43,12 @@ export default {
   },
 
   beforeCreate() {
-    // alert('beforeCreate');
+    alert('test!!');
+    alert('test leader!!');
   },
   create() {
     // alert('create');
+    alert('인생은 고달퍼');
   },
   beforeMount() {
     // alert('beforeMount');
